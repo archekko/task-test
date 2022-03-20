@@ -1,0 +1,33 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "I"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/archekko/my-site.git"
+  },
+  "author": "lena",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/archekko/my-site/issues"
+  },
+  "homepage": "https://github.com/archekko/my-site#readme",
+  "devDependencies": {
+    "browser-sync": "^2.27.7",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^8.0.0",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-cli": "^2.3.0",
+    "gulp-rename": "^2.0.0",
+    "gulp-sass": "^5.0.0",
+    "sass": "^1.43.4"
+  },
+  "dependencies": {
+    "gulp-htmlmin": "^5.0.1",
+    "gulp-imagemin": "^6.2.0"
+  }
+}
